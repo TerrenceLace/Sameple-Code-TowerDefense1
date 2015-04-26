@@ -1,4 +1,4 @@
-package com.mygdx.game.gameobjects;
+package com.mygdx.game.Gameobjects;
 
 /**
  * Created by Terrence Lacefield on 4/05/2015.

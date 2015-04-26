@@ -1,10 +1,10 @@
-package com.mygdx.game.gameobjects.mangers;
+package com.mygdx.game.Gameobjects.mangers;
 
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.badlogic.gdx.utils.Array;
 import com.mygdx.game.View.Level;
-import com.mygdx.game.gameobjects.EnemyHealthBar;
-import com.mygdx.game.gameobjects.TowerHealthBar;
+import com.mygdx.game.Gameobjects.EnemyHealthBar;
+import com.mygdx.game.Gameobjects.TowerHealthBar;
 
 import java.util.Iterator;
 

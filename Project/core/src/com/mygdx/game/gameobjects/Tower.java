@@ -1,8 +1,6 @@
-package com.mygdx.game.gameobjects;
+package com.mygdx.game.Gameobjects;
 
 import com.badlogic.gdx.graphics.Texture;
-import com.badlogic.gdx.math.Rectangle;
-import com.badlogic.gdx.math.Vector2;
 
 /**
  * Created by Terrence Lacefield on 4/05/2015.
